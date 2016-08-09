@@ -1,6 +1,6 @@
 # AJAX工作原理
 
-@(github.com/tsrot)[JavaScript闭包|]
+@(github.com/tsrot)[AJAX|]
 
 地址：http://blog.xieliqun.com/2016/08/08/ajax/
 
