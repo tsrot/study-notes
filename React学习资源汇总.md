@@ -110,27 +110,27 @@ React是一款非常优秀的前端框架，你要发挥它完全的性能，你
 介绍一些国内外比较好的 React 开源项目。
 
 国内：
-1. [阿里的 React 组件库](https://github.com/react-component)
-2. [Ant Design](https://github.com/ant-design/ant-design)
-3. [简易留言板](https://github.com/tsrot/react-demo)
-4. [react-zhihu](https://github.com/tsrot/react-zhihu)
-5. [React的扫雷游戏](https://github.com/cjohansen/react-sweeper)
-6. [在线聊天室](https://github.com/redsx/CR)
-7. [使用React技术栈开发SPA](https://github.com/JasonBai007/reactSPA)
-8. [阔论留言评论](https://github.com/NumerHero/kuolun)
-9. [React版cnode社区](https://github.com/lzxb/react-cnode)
+- [阿里的 React 组件库](https://github.com/react-component)
+- [Ant Design](https://github.com/ant-design/ant-design)
+- [简易留言板](https://github.com/tsrot/react-demo)
+- [react-zhihu](https://github.com/tsrot/react-zhihu)
+- [React的扫雷游戏](https://github.com/cjohansen/react-sweeper)
+- [在线聊天室](https://github.com/redsx/CR)
+- [使用React技术栈开发SPA](https://github.com/JasonBai007/reactSPA)
+- [阔论留言评论](https://github.com/NumerHero/kuolun)
+- [React版cnode社区](https://github.com/lzxb/react-cnode)
 
 国外：
-1. [Relax](https://github.com/relax/relax)
-2. [SoundRedux](https://github.com/andrewngu/sound-redux/)
-3. [Gatsby](https://github.com/gatsbyjs/gatsby)
-4. [isomorphic500](https://github.com/gpbl/isomorphic500)
-5. [NuclearMail](https://github.com/ianobermiller/nuclearmail)
-6. [Picard](https://github.com/Automattic/Picard)
-7. [React Color](https://github.com/casesandberg/react-color)
-8. [Sentry](https://github.com/getsentry/sentry/)
-9. [react-hn](https://github.com/insin/react-hn)
-10. [Perseus](https://github.com/khan/perseus)
+- [Relax](https://github.com/relax/relax)
+- [SoundRedux](https://github.com/andrewngu/sound-redux/)
+- [Gatsby](https://github.com/gatsbyjs/gatsby)
+- [isomorphic500](https://github.com/gpbl/isomorphic500)
+- [NuclearMail](https://github.com/ianobermiller/nuclearmail)
+- [Picard](https://github.com/Automattic/Picard)
+- [React Color](https://github.com/casesandberg/react-color)
+- [Sentry](https://github.com/getsentry/sentry/)
+- [react-hn](https://github.com/insin/react-hn)
+- [Perseus](https://github.com/khan/perseus)
 
 
 
