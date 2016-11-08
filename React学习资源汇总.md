@@ -90,6 +90,7 @@ React是一款非常优秀的前端框架，你要发挥它完全的性能，你
 7. [Webpack 中文指南](http://webpackdoc.com/)
 8. [webpack一小时快速入门](http://www.w2bc.com/Article/50764)
 9. [使用webpack轻松构建你的第一个react开发框架](http://www.jianshu.com/p/c8a805145046)
+10. [入门Webpack，看这篇就够了](http://www.jianshu.com/p/42e11515c10f#):写的很不错，逐级深入，适合入门，有点长，耐心看完
 
 10. [react-router](https://github.com/ReactTraining/react-router)
 11. [React Router 中文文档](https://react-guide.github.io/react-router-cn/)
