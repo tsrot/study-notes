@@ -110,6 +110,8 @@ React是一款非常优秀的前端框架，你要发挥它完全的性能，你
 24. [前端路由实现与 react-router 源码分析](http://www.alloyteam.com/2016/05/router/)
 25. [如何开发一个 Webpack Loader ( 一 )](http://www.alloyteam.com/2016/01/webpack-loader-1/)
 26. [服务器端渲染实践小结](http://www.alloyteam.com/2015/10/8783/)
+27. [听说你需要这样了解 Redux](https://github.com/rccoder/blog/issues/18)
+28. [学习Redux刷新了我的前端App状态管理观](http://www.jianshu.com/p/94d8f8a36ab0)
 
 ## React 开源项目
 
