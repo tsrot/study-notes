@@ -121,6 +121,15 @@ React是一款非常优秀的前端框架，你要发挥它完全的性能，你
 - [redux-devtools](https://github.com/gaearon/redux-devtools/blob/master/docs/Walkthrough.md)
 - [Redux超酷的开发工具Redux-Devtools](http://www.zhufengpeixun.cn/article/151)
 
+## redux 常用中间件或工具
+
+- [redux-thunk](https://github.com/gaearon/redux-thunk)
+- [redux-gen](https://github.com/weo-edu/redux-gen)
+- [redux-undo](https://github.com/omnidan/redux-undo)
+- [react-router-redux](https://github.com/reactjs/react-router-redux)
+- [react-redux-form](https://github.com/davidkpiano/react-redux-form)
+
+
 ## React 开源项目
 
 介绍一些国内外比较好的 React 开源项目。
