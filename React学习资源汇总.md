@@ -113,6 +113,13 @@ React是一款非常优秀的前端框架，你要发挥它完全的性能，你
 27. [听说你需要这样了解 Redux](https://github.com/rccoder/blog/issues/18)
 28. [学习Redux刷新了我的前端App状态管理观](http://www.jianshu.com/p/94d8f8a36ab0)
 
+## 开发工具
+
+- [react-devtools](https://github.com/facebook/react-devtools)
+- [React DevTools 正式发布，完全支持 React Native](http://www.oschina.net/news/65837/react-devtools-2-0)
+- [redux-devtools](https://github.com/gaearon/redux-devtools/blob/master/docs/Walkthrough.md)
+- [Redux超酷的开发工具Redux-Devtools](http://www.zhufengpeixun.cn/article/151)
+
 ## React 开源项目
 
 介绍一些国内外比较好的 React 开源项目。
