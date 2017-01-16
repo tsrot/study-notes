@@ -112,6 +112,7 @@ React是一款非常优秀的前端框架，你要发挥它完全的性能，你
 26. [服务器端渲染实践小结](http://www.alloyteam.com/2015/10/8783/)
 27. [听说你需要这样了解 Redux](https://github.com/rccoder/blog/issues/18)
 28. [学习Redux刷新了我的前端App状态管理观](http://www.jianshu.com/p/94d8f8a36ab0)
+29. [Learn React & Webpack by building a hacker news front page](https://github.com/theJian/build-a-hn-front-page)
 
 ## 开发工具
 
@@ -134,6 +135,7 @@ React是一款非常优秀的前端框架，你要发挥它完全的性能，你
 - [使用React技术栈开发SPA](https://github.com/JasonBai007/reactSPA)
 - [阔论留言评论](https://github.com/NumerHero/kuolun)
 - [React版cnode社区](https://github.com/lzxb/react-cnode)
+- [适合新手学习的Demo， React + react-router + webpack + babel + Node + express + mongodb](https://github.com/rongchanghai/justForYou)
 
 国外：
 - [Relax](https://github.com/relax/relax)
