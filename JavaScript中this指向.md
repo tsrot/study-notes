@@ -15,7 +15,7 @@
 ## 1、	指向window的隐式指向
 ```javascript
 function sayHello(){
-    this.nama = "tsrot";
+    this.name = "tsrot";
     console.log("hello " + this.name);
 }
 sayHello()       //hello tsrot
@@ -88,7 +88,7 @@ console.log("hello " + o.name);  //hello tsrot
 call（）、apply()都是函数对象的一个方法，它们的作用是改变函数的调用对象，它们的第一个参数就表示改变后的调用这个函数的对象。因此，this指的就是这第一个参数。
 ```javascript
 function sayHello(){
-    console.log("hello " + this.name;
+    console.log("hello " + this.name);
 }
 var o = {};
 o.name = "tsrot";
@@ -99,7 +99,10 @@ apply()的参数为空时，默认调用全局对象。因此，这时的运行�
 如果把最后一行代码修改为
 ```javascript
 // o.hello.apply();    //hello
-o.hello.apply();      //hello tsrot
+o.hello.apply(o);      //hello tsrot
+o.hello.apply(this);      //hello tsrot
+o.hello.call(o);      //hello tsrot
+o.hello.call(this);      //hello tsrot
 ```
 此时this就指向对象o了。
 ### （2）	原生Function方法bind（）调用
@@ -112,7 +115,7 @@ var person = {
     }
 }
 var boundFunc = person.sayHello.bind(person,person.sayHello);
-setTimeout(boundFunc,5000);   //5秒后输出 你好，我是tsrot
+setTimeout(boundFunc,5000);   //5秒后输出 你好，我是tsrot ,[setTimeout 涉及一些执行栈的问题](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)，或者简单的理解,在浏览器中setTimeout是window的属性。
 ```
 下图代码中person.sayHello,相当于在window.person.sayHello，所以this指向window。
 ```javascript
